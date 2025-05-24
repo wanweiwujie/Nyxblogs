@@ -1,4 +1,3 @@
-[[哈哈]]
 # Nyxblogs
 <center>my blogs<center/>
 ## my first blogs
